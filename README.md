@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate self-learner currently in a gap y
 - 🌱 I’m learning **JavaScript, HTML, and CSS** to build interactive websites.
 - 👯 I’m open to collaborating on **open-source projects** or **front-end web development** work.
 - ⚽ Outside of coding, I enjoy **playing basketball** — I’ve played for **Intag Harbi** for 3 years.
-- 📫 How to reach me: **mahmoud.mohamed@example.com** | [LinkedIn](https://www.linkedin.com/in/mahmoud-mohamed) | [Twitter](https://twitter.com/mahmoudmohamed)
+- 📫 How to reach me: | [Instagram](https://Instagram.com/george_kusunoky)
 - ⚡ Fun fact: I used to work as a **barista** at **Circle K** for 7 months, where I learned how to make a killer cappuccino!
 
 ---
